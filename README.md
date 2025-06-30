@@ -1,4 +1,4 @@
-👋 Hey there! I’m Ravi — part-time shell builder, full-time bug squasher.
+👋 Hey there! I’m Ravi — part-time shell builder, full-time bug squasher. \n
 🧠 Learning by doing (and breaking things) at Codam.
 🧰 Fluent in C, C++, and occasionally human languages (EN | NL | SK).
 🎮 Currently building tiny games, tiny shells, and not-so-tiny dreams.
